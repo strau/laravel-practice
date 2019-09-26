@@ -1,9 +1,2 @@
-# laravel-practice
-- 设计模式
-- docker
-- 数据结构与算法
-- laravel框架功能
-  - API认证
-  - 事件
-  - 队列
-  - 任务调度
+- 此练习项目已经废弃
+- 此练习项目已经合并到strau/study中
